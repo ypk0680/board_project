@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+.outwrap {
+ width: 100%;
+ text-align: center;
+ 
+}
+
+.inwrap {
+	display: inline-block; 
+	
+}
+
